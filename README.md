@@ -1,2 +1,2 @@
-# todoListPracticeComponent
+# todoListPractice
 Created with CodeSandbox
